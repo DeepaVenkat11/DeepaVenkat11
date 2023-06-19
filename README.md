@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepa
 - 👀 I’m interested in Python and Front End Developing!
 - 🌱 I’m currently learning Python,HTML and CSS!
-- 💞️ I’m looking For an IT job which enhances my skill!
+- 💞️ I’m looking For a Front End Developer role
 - 📫 How to reach me : deepavenkat172@gmail.com
 
 <!---
