@@ -4,7 +4,7 @@ I'm a Quality Assurance Engineer on a mission to build bug-free, high-quality so
 
 - 🔭 I’m currently building a full E2E testing framework for an e-commerce demo site using **Playwright**.
 - ⚙️ I use `JavaScript/TypeScript`, `Playwright`, `Postman`, and `Jira` daily.
-- 🌱 I’m currently learning about **Performance Testing with Jmeter ** and **CI/CD integration with GitHub Actions & jenkins**.
+- 🌱 I’m currently learning about **Performance Testing with Jmeter** and **CI/CD integration with GitHub Actions & jenkins**.
 - 💬 Ask me about anything related to QA, from writing test cases to automating API endpoints!
 
 <!---
