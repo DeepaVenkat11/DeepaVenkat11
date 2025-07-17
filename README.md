@@ -1,4 +1,4 @@
-- ## Hi there, I'm [Your Name] 👋
+- ## Hi there, I'm Deepa! 👋
 
 I'm a Quality Assurance Engineer on a mission to build bug-free, high-quality software. With a solid foundation in manual testing and a passion for automation, I love diving into code to build scalable testing solutions.
 
